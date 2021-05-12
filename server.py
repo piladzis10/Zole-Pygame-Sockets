@@ -4,7 +4,7 @@ import pickle
 from game import Game, Player
 
 s = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
-server = "192.168.0.104"
+server = ""
 host = 55555
 addr = (server, host)
 
