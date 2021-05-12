@@ -1,0 +1,1 @@
+* Have to send player object and played cards
